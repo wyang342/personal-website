@@ -1,0 +1,19 @@
+html {
+	text-align: left;
+	font-family: 'Open Sane', Arial, Helvetica, sans-serif;
+	background-color: #217ff31c;
+}
+
+main {
+	background-color: white;
+	padding: 1px 30px 30px 30px;
+	margin: 0px 20vw 0px 20vw;
+}
+
+h3 {
+	padding-top: 30px;
+}
+
+li {
+	text-align: left;
+}
