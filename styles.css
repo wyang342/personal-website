@@ -1,26 +1,18 @@
-html {
-    text-align: left;
+body {
     font-family: 'Lato', sans-serif;
     background-color: #aec6cf;
 }
 
 main {
     background-color: white;
-    padding: 1px 30px 30px 30px;
     margin: 0px 15vw 0px 15vw;
 }
 
-h2 {
-    margin: 20px 0px 10px 0px;
-}
-
+h1,
+h2,
+h3,
 h4 {
-    padding-bottom: 0px;
-    margin: 20px 0px 10px 0px;
-}
-
-ul {
-    margin: 0px;
+    margin: 20px;
 }
 
 li {
@@ -30,7 +22,7 @@ li {
 
 p {
     font-family: 'Open Sans';
-    padding: 0px;
+    margin: 20px;
 }
 
 #picOfMyself {
@@ -53,6 +45,7 @@ p {
 .fa:hover {
     opacity: 0.7;
 }
+
 .fa-linkedin {
     background: #007bb5;
     color: white;
